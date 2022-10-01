@@ -1,7 +1,7 @@
 # bsp_iv_hi_kinetic_interp
 Brownian dynamics code for simulating bead-spring-dashpot chains with fluctuating internal friction and hydrodynamic interactions.
 
-This code builds on a Fortran90 legacy code developed in the Molecular Rheology Lab. 
+This code builds on a Fortran90 legacy code developed in the Molecular Rheology Lab headed by Prof. Ravi Jagadeeshan at Monash University [https://www.monash.edu/engineering/ravijagadeeshan].
 
 I have modified the code so that it can now simulate the dynamics of a single polymer chain with fluctuating internal friction and hydrodynamic interactions. A kinetic interpretation is atatched to the governing Fokker-Planck equation to obtain the corresponding stochastic differemntial equations. This avoid the calculation of the divergence tensor that would accompany the It\^{o} interpretation. The divergence terms in the stress tensor expression are evaluated using the random finite difference method.
 
