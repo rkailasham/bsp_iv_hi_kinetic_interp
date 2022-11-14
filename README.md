@@ -15,4 +15,6 @@ I have modified the code so that it can now simulate the dynamics of a single po
 Two sample "submit scripts (.sh extension) have been provided.
 
 The accompanying paper and the supplemental material are available at: 
-R. Kailasham, Rajarshi Chakrabarti, J. Ravi Prakash, "Shear viscosity for finitely extensible chains with fluctuating internal friction and hydrodynamic interactions" (2022), J. Rheol. (in press) [Link: https://arxiv.org/abs/2204.10656] 
+R. Kailasham, Rajarshi Chakrabarti, J. Ravi Prakash, "Shear viscosity for finitely extensible chains with fluctuating internal friction and hydrodynamic interactions", J. Rheol. Vol. 67, 105-123 (2023) [Link: https://doi.org/10.1122/8.0000498] 
+
+The pre-print version of the paper and the supplemental material is available as a PDF in this repository.
