@@ -7,6 +7,6 @@ authors:
   given-names: "Rajarshi"
 - family-names: "Prakash"
   given-names:  "J. Ravi"
-title: "BD simulations of bead-spring-dashpot chain model"
+title: "BD simulations of bead-spring-dashpot chain model with hydrodynamic interactions"
 date-released: 2022-11-15
 url: "https://github.com/rkailasham/bsp_iv_hi_kinetic_interp"
